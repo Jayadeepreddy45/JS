@@ -23,5 +23,5 @@ let state;
 
 // object
 
-console.log(typeof age); // undefined
+console.log(typeof name); // undefined
 console.log(typeof null); // object
